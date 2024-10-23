@@ -1,0 +1,5 @@
+openweathermap-starter:
+  # SDK-ключ для OpenWeatherMap
+  sdk-key: bd5e378503939ddaee76f12ad7a97608
+  # Город, для которого стартер будет поставлять погодные данные
+  city: Moscow
